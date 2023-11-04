@@ -1,0 +1,11 @@
+C:\Users\taras\source\repos\Checkers\Checkers\bin\Debug\net7.0\Checkers.deps.json
+C:\Users\taras\source\repos\Checkers\Checkers\bin\Debug\net7.0\Checkers.dll
+C:\Users\taras\source\repos\Checkers\Checkers\bin\Debug\net7.0\Checkers.pdb
+C:\Users\taras\source\repos\Checkers\Checkers\obj\Debug\net7.0\Checkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taras\source\repos\Checkers\Checkers\obj\Debug\net7.0\Checkers.AssemblyInfoInputs.cache
+C:\Users\taras\source\repos\Checkers\Checkers\obj\Debug\net7.0\Checkers.AssemblyInfo.cs
+C:\Users\taras\source\repos\Checkers\Checkers\obj\Debug\net7.0\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\taras\source\repos\Checkers\Checkers\obj\Debug\net7.0\Checkers.dll
+C:\Users\taras\source\repos\Checkers\Checkers\obj\Debug\net7.0\refint\Checkers.dll
+C:\Users\taras\source\repos\Checkers\Checkers\obj\Debug\net7.0\Checkers.pdb
+C:\Users\taras\source\repos\Checkers\Checkers\obj\Debug\net7.0\ref\Checkers.dll
